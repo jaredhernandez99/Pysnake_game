@@ -2,7 +2,7 @@
 
 Hola, estoy muy emocionado de subir mi primer juego:  **PySnake Game**. A github, se que es algo sencillo, pero es un juego que me emociona bastante compartir con ustedes. Les cuento un poco de como jugar, aunque solo se requiere de sentido común.
 
-# Como Jugar
+## Como Jugar
 
 PySnake Game, es un juego que se puede jugar de dos maneras, la que nos acostumbramos mas actualmente que es con las teclas de **w,a,s,d** o las flechas del teclado **←, →, ↓, ↑**. Se puede jugar de ambos modos, personalmente se me hace más comodo con las letras, cuestión de gustos.
 
