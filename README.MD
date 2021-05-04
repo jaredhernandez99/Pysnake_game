@@ -8,7 +8,8 @@ PySnake Game, es un juego que se puede jugar de dos maneras, la que nos acostumb
 
 ## Como ejecutar el juego
 
-Se debe tener instalado Python ^3.x
+Se debe tener instalado Python ^3.x.  
+
 *Se puede jugar unicamente corriendo el archivo main.py*
 
 
